@@ -25,39 +25,23 @@ Each project focuses on a different stage of the data analytics workflow, demons
 
 ### Level 1
 
-✅ Retail Sales Exploratory Data Analysis
+* Exploratory Data Analysis on Retail Sales Data *(In Progress)*
 
-- Data cleaning
-- Descriptive statistics
-- Time series analysis
-- Customer demographics
-- Product analysis
-- Correlation analysis
-- Business recommendations
+### Level 2
 
----
+* Customer Segmentation Analysis *(Planned)*
+* House Price Prediction *(Planned)*
 
-### Level 2 *(Coming Soon)*
+## Technologies Used
 
-- Interactive Business Dashboard (Power BI & Plotly)
-- Customer Segmentation Analysis
-- House Price Prediction
-
----
-
-## Technologies
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
-- Power BI
-- Scikit-learn
-- Jupyter Notebook
-
----
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Plotly
+* Scikit-learn
+* Jupyter Notebook
 
 ## Repository Structure
 
@@ -72,26 +56,4 @@ OIBSIP/
 └── .gitignore
 ```
 
----
-
-## Learning Outcomes
-
-Through this internship, I aim to strengthen my ability to:
-
-- Analyze real-world datasets
-- Build meaningful visualizations
-- Develop interactive dashboards
-- Apply machine learning models
-- Communicate insights through data storytelling
-
----
-
-## Author
-
-**Deborah K.**
-
-Bachelor of Science in Information Technology
-
-Kisii University
-
-Oasis Infobyte Data Analytics Internship
+This repository will be updated as each project is completed throughout the internship.
